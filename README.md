@@ -9,6 +9,6 @@ Criei o MailMerge para me ajudar a criar Mala direta usando o Microsoft Word me 
 Você pode digitar o nome do prefixo ou sufixo ou seleciona qual campo do seu banco de dados ou tabela xls você deseja usar como prefixo ou sufixo.
 É possível salvar os arquivos como doc, pdf ou nos dois formato.
 
-[Ler em português](MailMerge/Manual/Manual de Instruções (PT-BR).pdf)
+[Ler em português](docs/Términos de uso de MailMerge (ES).rtf)
 
 <!-- [![CLIQUE PARA ASSISTIR UM TUTORIAL EM VÍDEO](https://img.youtube.com/vi/THkmhgI-opU/0.jpg)](https://www.youtube.com/watch?v=THkmhgI-opU) -->
