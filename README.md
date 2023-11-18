@@ -1,4 +1,4 @@
-### Ler em português (Manual/Manual de Instruções (PT-BR).pdf)
+[Ler em português](Manual/Manual de Instruções (PT-BR).pdf)
 ### Leer en español
 ### Read in English
 
