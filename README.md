@@ -1,5 +1,5 @@
 ### [Ler em português](Portugues)
-[Portugues]:(https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instruções%20(PT-BR).pdf)
+[Portugues]:(https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf)
 ### Leer en español
 ### Read in English
 
