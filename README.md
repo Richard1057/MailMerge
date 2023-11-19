@@ -1,7 +1,9 @@
-### [Ler em português](Portugues)
-[Portugues]:(https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf)
-### Leer en español
-### Read in English
+### [Ler em português](https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf)
+[https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf]:https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf
+### [Leer en español](https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(ES).pdf)
+[https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(ES).pdf]:https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(ES).pdf
+### [Read in English](https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(EN).pdf)
+[https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(EN).pdf]:https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(EN).pdf
 
 # Tutorial de Uso
 
