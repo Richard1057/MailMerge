@@ -1,4 +1,5 @@
-### [Ler em português](https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual de Instruções (PT-BR).pdf)
+### [Ler em português](Portugues)
+[Portugues]:(https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instruções%20(PT-BR).pdf)
 ### Leer en español
 ### Read in English
 
