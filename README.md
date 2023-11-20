@@ -327,7 +327,7 @@ Se poder me siga nos perfies nas redes sociais, faça uma doação a aprtir de $
 Se precisar de ajuda, você pode consultar o menu ajuda para ter acesso a videos tutorias em nosso canal do youtube ou solcitar ajuda no telegram, facebook ou comunidade do whatsapp, nesse menu você pode também trocar o idioma.
 
 
-<p alingn ="center"> **Obrigado por considerar usar e apoiar o MailMerge App ❤** </p>
+<p align="center"> Obrigado por considerar usar e apoiar o MailMerge App ❤ </p>
 
 
 
