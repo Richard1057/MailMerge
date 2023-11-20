@@ -155,6 +155,27 @@ Você pode formatar normalmente seus campos. Qualquer formatação aplicada aos 
 
 Tenha o cuidado de digitar os nomes dos campos exatamente como você digitou na planilha do excel ou no banco de dados Access evitando erros dificies de serem solucionados.
 
+Veja como deve ficar nosso texto de exemplo com os campos já marcados.
+
+```
+    Olá {nome} seja bem vindo! Ficamos felizes com o seu ingresso no nosso curso de {curso}, na turma {turma},
+temos muitos outros usarios da sua localidade, {pais}, {estado}, {cidade} eles ficarão felizes em saber
+que você agora paz parte da turma, aproveita para quebrar o gelo enviado um Olá! no chat em grupo.
+
+Seus dados de login são:
+
+Usuário: {matricula}
+Senha: {senha}
+
+
+
+
+Att,
+Richard Slater
+Coordenador Pedagogico
+
+```
+
 Agora que você já adicinou todos os campos de que precisa no seu documento, chegou a hora de salvar.
 
 4.1.	Clique em **Salvar como** e em tipo de arquivo selecione ***.dotx** ou ***.dot** e dê ao arquivo um nome fácil de lembarar. O Word vai sugerir que o arquivo seja guardado na pasta de modelos do office, está é a melhor pasta para se guardar mas você pode salvar em qualquer outra pasta que desejar. 
@@ -249,6 +270,70 @@ A medida que você modifica estes itens, será mostrada uma prévia de como fica
 
 
 ## 5.4. Removendo/Readicionando Campos
+
+![34](https://github.com/Richard1057/MailMerge/assets/7233190/52274cbb-ac8b-43bd-8016-a0029ea33256)
+
+Se seu banco de dados possui campos que não existem no seu modelo de mala direta,  eles precisam ser removidos para não ocasionar o erro Membro Inexistente na coleção.
+Esse remoção não afeta fisicamente o seu banco de dados, sendo removida apenas em memória.
+*P.S. Se esse erro ocorrer você precisará fechar o MailMerge e recomeçar o processo todo novamente.*
+
+Dê uma olhadinha na zona que mostra todos os campos disponiveis no seu banco de dados.
+
+![35](https://github.com/Richard1057/MailMerge/assets/7233190/38197e80-13f0-4f4f-be9a-f9f237b9132f)
+
+Nessa zona podemos ver duas áreas destintas, uma contendo todos os campos do banco de dados e três botões, e uma outra contendo todos os campos excluídos e três botões.
+
+Se desejar remover algum campo simplismente clique no nome dele para selecionar na lista **Campos disponíveis** e logo em seguida clique no botão de transferencia (duas setas para a direita), todos os campos selecionados serão removidos do seu banco de dados e aparecerão na lista de campos removidos e desaparecerão da visualização. Você pode selecionar mais de um campo de uma vez e você ainda pode:
+
+•	Clicar no botão 1 para selecionar todos os campos.
+•	Clicar no botão 2 para inverter a seleção.
+•	Clicar no botão 3 para limpar a seleção de todos os campos.
+
+Se removeu algum campo por engano ou se arrependeu você pode readiciona-los simplismente clicando no nome dele para selecionar na lista **Campos removidos** e logo em seguida clique no botão de transferencia (duas setas para a esquerda), todos os campos selecionados serão readicionados ao seu banco de dados e aparecerão na lista de campos dispníveis e reaparecerão na visualização. Você pode selecionar mais de um campo de uma vez e você ainda pode:
+
+•	Clicar no botão 1 para selecionar todos os campos.
+•	Clicar no botão 2 para inverter a seleção.
+•	Clicar no botão 3 para limpar a seleção de todos os campos.
+
+![36](https://github.com/Richard1057/MailMerge/assets/7233190/0cbea8ff-aa31-4d4b-adb7-d16f2d088de9)
+
+## 5.5. Gerando a mala direta propriamente dita
+
+![37](https://github.com/Richard1057/MailMerge/assets/7233190/377a0e6b-d6ce-44d3-aae3-2fef19553dbf)
+
+Clique no botão Criar mala direta para iniciar o processo de criação, depois de inicado não dá pra parar esse processo, você pode acompanhar o progresso observando a contagem na barra de progresso que aparece logo acima da lista de visualização dos dados.
+
+![38](https://github.com/Richard1057/MailMerge/assets/7233190/7782b418-a58f-4f18-966b-d943e9be0429)
+
+![39](https://github.com/Richard1057/MailMerge/assets/7233190/74099ceb-edc2-4c17-85cd-a4ebac68b3f7)
+
+![40](https://github.com/Richard1057/MailMerge/assets/7233190/78484245-e552-46e3-b31a-3a18f8e15ba3)
+
+O botão **Visualizar pasta** agora ficará dispoível e você pode clicar nele para visualizar a pasta onde foram gravados seus novos documentos.
+
+![41](https://github.com/Richard1057/MailMerge/assets/7233190/5cd23e8a-1a04-4086-a2ab-4ba3617eb8f9)
+
+Todos os seus arquivos serão mostrados na pasta onde você indicou para a gravação deles.
+
+---
+Espero que o MailMerge tenha de fato uma utilidade pra você assim como tem pra mim.
+Se poder me siga nos perfies nas redes sociais, faça uma doação a aprtir de $ 1,00 (um dolar) isso nos ajudará a manter esse projeto sempr em desenvolvimento e a criar muitos outros projetos gratuitos.
+
+![42](https://github.com/Richard1057/MailMerge/assets/7233190/b92ee0ca-cc93-4a91-94e0-67e034fddefc)
+
+![43](https://github.com/Richard1057/MailMerge/assets/7233190/dd1c4a7e-bfe8-41cf-94a0-ca1981211d2c)
+
+
+Se precisar de ajuda, você pode consultar o menu ajuda para ter acesso a videos tutorias em nosso canal do youtube ou solcitar ajuda no telegram, facebook ou comunidade do whatsapp, nesse menu você pode também trocar o idioma.
+
+
+<p alingn ="center"> **Obrigado por considerar usar e apoiar o MailMerge App ❤** </p>
+
+
+
+
+
+
 
 
 
