@@ -143,13 +143,112 @@ Coordenador Pedagogico
 
 ```
 ## 4.	Criando os campos no documento
-O MailMerge não usa o padrão de campos de mala direta do word, ao inves disso ele usa um modelo próprio de campos definidos por chave dupla { }, sendo assim, todo o conteudo que estiver dentro das chaves serão reconhecidos como campo para o MailMerge, 
-ex. {nome} é um campo válido.
+O MailMerge não usa o padrão de campos de mala direta do word, ao inves disso ele usa um modelo próprio de campos definidos por chave { }, sendo assim, todo o conteudo que estiver dentro das chaves serão reconhecidos como campo para o MailMerge, 
+ex. *{nome}* é um campo válido.
 Se seu documento já possui campos de mala direta padrão do word você vai precisar removelos.
 
 Agora iremos criar os campos no documento. Para isso adicione uma { na frente do nome do campo e uma } no final do nome do campo. Não selecione espaços antes ou depois do nome do campo, pois eles também serão substituidos. Veja o exemplo abaixo.
 
+![18](https://github.com/Richard1057/MailMerge/assets/7233190/1cb4f405-2542-4e19-a6cb-00037b0b755f)
 
+Você pode formatar normalmente seus campos. Qualquer formatação aplicada aos campos serão preservadas durante a criação da mala direta. 
+
+Tenha o cuidado de digitar os nomes dos campos exatamente como você digitou na planilha do excel ou no banco de dados Access evitando erros dificies de serem solucionados.
+
+Agora que você já adicinou todos os campos de que precisa no seu documento, chegou a hora de salvar.
+
+4.1.	Clique em **Salvar como** e em tipo de arquivo selecione ***.dotx** ou ***.dot** e dê ao arquivo um nome fácil de lembarar. O Word vai sugerir que o arquivo seja guardado na pasta de modelos do office, está é a melhor pasta para se guardar mas você pode salvar em qualquer outra pasta que desejar. 
+
+![19](https://github.com/Richard1057/MailMerge/assets/7233190/0818342e-7d9b-4dad-8f06-a84398ace50e)
+
+4.2.	Clique e **Salvar**.
+
+Tudo certo até aqui, seu banco de dados e o modelo da mala direta foram criados com sucesso. Você pode fechar o word, vamos agora crar a mala direta propriamente dita usando o MailMerge.
+
+## 5.	Iniciado o MailMerge pela primeira vez
+
+Como esse é um arquivo baixado da internet, talves o Windows Defender pode lhe dar um aviso mas não se preocupe, não existe nenhum virus ou artefatos maliciosos no arquivo e fique a vontande para passar o antivirus se desejar.
+
+5.1. Para iniciar o app é muito simples, basta dar um duplo clique no executável “MailMerge.exe”,  nenhuma instalação necessária, o executável sera iniciado imediatamente.
+
+Será mostrada a tela de boas vidas
+
+![20](https://github.com/Richard1057/MailMerge/assets/7233190/d0b7a6c8-e419-4e34-8052-19cb5cc1f8e4)
+
+O MailMerge está localizado em três idiomas, Português, Espanhol e Inglês.
+
+•	Selecione um dos idiomas disponíveis. (Você pode trocar o dioma mais tarde se desejar)
+•	Clique no botão Lê os termos, para lêr nossos termos de uso.
+•	Aceite os termos cllicando na caixa de seleção.
+•	Clique no botão Continuar para finalmente o MailMerge gravar suas escolhas e ser iniciado.
+
+Esta é a tela do aplicativo iniciado. Como pode ser notado apenas o botão **Seleionar** está disponível.
+
+![21](https://github.com/Richard1057/MailMerge/assets/7233190/87f107c1-5a54-4ecf-8bbc-0b26e689e0c6)
+
+Veja agora a sequencia de passos para gerar a mala direta usando o microsoft word, o nosso arquivo de exemplo e o banco de dados criados anteriormente ou um outro de sua escolha.
+
+5.2. Selecionado o nosso Banco de Dados.
+5.2.1	Selecione o seu banco de dados clicando no botão Selecionar
+
+![22](https://github.com/Richard1057/MailMerge/assets/7233190/d46a02fd-5037-4ab0-b2ce-9a7a4281496d)
+
+5.2.2 	Clique no combobox para selecionar a tabela desejada caso exista mais de uma
+
+![23](https://github.com/Richard1057/MailMerge/assets/7233190/860c4c70-fb6e-47f6-882f-c19c7ea2a634)
+
+5.2.3	Clique no combobox para selecionar seu modelo, clique no botão botão Atualizar lista caso seu modelo não apareça ou clique no botão Seleconar para informar seu modelo de documento manualmente.
+
+![24](https://github.com/Richard1057/MailMerge/assets/7233190/b3b4a623-f8e3-4eb4-9faf-f85db4df3918)
+
+5.2.4	Clique no botão selecionar para selecionar a pasta onde deseja guardar os arquivos que serão gerados.
+
+![25](https://github.com/Richard1057/MailMerge/assets/7233190/a1c4f2d2-c9bc-45ad-ac66-531cb16c019b)
+
+5.2.5	Clique no combobox para selecinar o campo do seu banco de dados que dará origem ao nome do seu arquivo.
+
+![26](https://github.com/Richard1057/MailMerge/assets/7233190/38b06871-338c-4750-b58b-28172f5ab23b)
+
+5.2.6	Selecione qual será o tipo de arquivo que será gerado:
+
+![27](https://github.com/Richard1057/MailMerge/assets/7233190/7d615f22-8961-4db9-b1ab-00b136b486de)
+
+* **.doc – Para salvar como Documento padrão do Word*
+
+![28](https://github.com/Richard1057/MailMerge/assets/7233190/d2cfc178-e1d7-4c2e-8a76-b3efb45c94a4)
+
+* **.pdf – Para salvar como Documento em PDF*
+  
+![29](https://github.com/Richard1057/MailMerge/assets/7233190/d5cddffd-d19b-4c8c-97bb-7cf555711101)
+
+* **.doc e* **.pdf – Ambos os formatos serão criados.*
+
+## 5.3 Prefixo e Sufixo
+*P.S. Prefixo e Sufixo não são obrigatórios.*
+
+![30](https://github.com/Richard1057/MailMerge/assets/7233190/5de087e3-d03b-47a5-a6c0-f843b93244b2)
+
+---
+![31](https://github.com/Richard1057/MailMerge/assets/7233190/b8f53d1f-0b25-436f-900a-c6f2d8e2cac1)
+
+Se desejar acrescentar prefixo ou sufixo no nome do seu arquivo, simplismente marque as opções desejada e informe o nome na caixa de texto.
+
+---
+
+![32](https://github.com/Richard1057/MailMerge/assets/7233190/7947c0b1-e887-447c-9a6b-8163b2fea593)
+
+Se desejar criar dinamicamente o prefixo e sufixo, marque a opção desejada e selecione no combobox qual campo da tabela vai dar nome ao prefixo ou sufixo.
+
+---
+
+![33](https://github.com/Richard1057/MailMerge/assets/7233190/a2e23e64-895d-49a4-a2ee-bf58b398f0c5)
+
+Se desejar adicionar um separador, marque o aopção Usar Separador e selecione o tipo no combobox
+
+A medida que você modifica estes itens, será mostrada uma prévia de como ficara o formação do nome do seu arquivo.
+
+
+## 5.4. Removendo/Readicionando Campos
 
 
 
