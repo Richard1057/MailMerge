@@ -21,9 +21,7 @@ Use, compartilhe com seus amigos e siga nas nossas redes sociais para a ajudar o
 
 ## Download e Instalação
 
-1.	Faça o download do MailMerge no Github usando link abaxio, não é necessário ter uma conta no github para consegui fazer o download.
-https://github.com/Richard1057/MailMerge.git
-
+1.	Faça o download do MailMerge seguindo os passo abaixo, não é necessário ter uma conta no github para consegui fazer o download.
 2.	Clique no botão azul chamado “Code”
 ![01](https://github.com/Richard1057/MailMerge/assets/7233190/6adc8160-27de-437f-a460-de83c770a3bb)
 
