@@ -322,7 +322,7 @@ Se poder me siga nos perfies nas redes sociais, faça uma doação a aprtir de $
 ![43](https://github.com/Richard1057/MailMerge/assets/7233190/dd1c4a7e-bfe8-41cf-94a0-ca1981211d2c)
 
 
-Se precisar de ajuda, você pode consultar o menu ajuda para ter acesso a videos tutorias em nosso canal do youtube ou solcitar ajuda no telegram, facebook ou comunidade do whatsapp, nesse menu você pode também trocar o idioma.
+Se precisar de ajuda, você pode consultar o menu ajuda para ter acesso a videos tutorias em nosso canal do youtube ou solicitar ajuda no telegram, facebook ou comunidade do whatsapp, nesse menu você pode também trocar o idioma.
 
 
 <p align="center"> Obrigado por considerar usar e apoiar o MailMerge App ❤ </p>
