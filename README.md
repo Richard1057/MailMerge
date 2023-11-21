@@ -1,4 +1,3 @@
-### Tutorial em PDF
 - ### [Ler em português](https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf)
 [https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf]:https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(PT-BR).pdf
 - ### [Leer en español](https://github.com/Richard1057/MailMerge/blob/main/Manual/Manual%20de%20Instru%C3%A7%C3%B5es%20(ES).pdf)
@@ -45,6 +44,7 @@ Ambos os bancos de dados access e excel são compatíveis, não havendo diferen�
 Veja como criar seu banco de dados em ambas tecnologias.
 
 1.	Criando o banco de dados no exel
+
 Essa parte é a mais fácil de todas, simplismente crie uma nova planilha e adicione os campos como mostrados na imagem.
 
 ![05](https://github.com/Richard1057/MailMerge/assets/7233190/d6c5e23d-e41c-46bb-8c4a-d98d2b6d4ed5)
@@ -52,14 +52,17 @@ Essa parte é a mais fácil de todas, simplismente crie uma nova planilha e adic
 Se quiser você já pode adicionar os registros também, ou pode fazer mais tarde, eu prefiri adicionar os registros agora.
 
 ![06](https://github.com/Richard1057/MailMerge/assets/7233190/6c3b1ba8-947d-4d77-96c2-d6f8e8066a63)
+
 *Todos os nomes são ficticios e foram gerados usando o portal  https://pt.fakenamegenerator.com/ qualquer semelhança é mera conhicidencia.*
 
 Salve sua planilha no formato *.xls (formato antigo do excel, não salve no formato *.xlsx pois ele ainda não é compativel), em um local e nome que sejam fácil lembrar.
 
 ![07](https://github.com/Richard1057/MailMerge/assets/7233190/203ad182-b533-4c26-abd1-2342075f8fc8)
+
 Voê pode fechar o excel agora, não usaremos mais ele por enquanto.
 
 2.	Criando um banco de dados no Access
+
 •	Crie um novo banco de dados clicando no botão Banco de dados em Branco ao iniciar Access.
 
 ![08](https://github.com/Richard1057/MailMerge/assets/7233190/6fffb632-19fc-4113-9c64-1980f73ebcc5)
@@ -110,7 +113,7 @@ Clique na opção Banco de Dados Access 2000 (*.mdb) e clique em salvar, selecio
 
 Pode fechar o Microsoft Access e se for perguntado se deseja salvar as alterações, clique em sim para salvar e fechar o access.
 
-:: Criando o modelo do Documento no Microsoft Word
+## Criando o modelo do Documento no Microsoft Word
 Agora que você já criou e alimentou seu banco de dados com informações relevantes para seu uso, vamos criar o nosso modelo de documento.
 
 3.	Crie um novo documento no word ou abra um documento que deseje usar.
@@ -123,9 +126,10 @@ Os dados unicos pertencentes a cada usuários serão:
 
 Usaremos o seguinte texto em nossa, caso vcoê não tenha um documento mas deseja treinar, copie e cole o texto abaixo em um novo documento no word.
 ```
-    Olá nome seja bem vindo! Ficamos felizes com o seu ingresso no nosso curso de curso, na turma turma,
-temos muitos outros usarios da sua localidade, pais, estado, cidade eles ficarão felizes em saber
-que você agora paz parte da turma, aproveita para quebrar o gelo enviado um Olá! no chat em grupo.
+    Olá nome seja bem vindo! Ficamos felizes com o seu ingresso no nosso curso de curso,
+na turma turma, temos muitos outros usarios da sua localidade, pais, estado, cidade eles
+ficarão felizes em saber que você agora paz parte da turma, aproveita para quebrar o
+gelo enviado um Olá! no chat em grupo.
 
 Seus dados de login são:
 
@@ -156,9 +160,10 @@ Tenha o cuidado de digitar os nomes dos campos exatamente como você digitou na 
 Veja como deve ficar nosso texto de exemplo com os campos já marcados.
 
 ```
-    Olá {nome} seja bem vindo! Ficamos felizes com o seu ingresso no nosso curso de {curso}, na turma {turma},
-temos muitos outros usarios da sua localidade, {pais}, {estado}, {cidade} eles ficarão felizes em saber
-que você agora paz parte da turma, aproveita para quebrar o gelo enviado um Olá! no chat em grupo.
+    Olá {nome} seja bem vindo! Ficamos felizes com o seu ingresso no nosso curso de {curso},
+na turma {turma}, temos muitos outros usarios da sua localidade, {pais}, {estado}, {cidade} eles
+ficarão felizes em saber que você agora paz parte da turma, aproveita para quebrar o
+gelo enviado um Olá! no chat em grupo.
 
 Seus dados de login são:
 
@@ -197,9 +202,13 @@ Será mostrada a tela de boas vidas
 O MailMerge está localizado em três idiomas, Português, Espanhol e Inglês.
 
 •	Selecione um dos idiomas disponíveis. (Você pode trocar o dioma mais tarde se desejar)
+
 •	Clique no botão Lê os termos, para lêr nossos termos de uso.
+
 •	Aceite os termos cllicando na caixa de seleção.
+
 •	Clique no botão Continuar para finalmente o MailMerge gravar suas escolhas e ser iniciado.
+
 
 Esta é a tela do aplicativo iniciado. Como pode ser notado apenas o botão **Seleionar** está disponível.
 
@@ -284,14 +293,20 @@ Nessa zona podemos ver duas áreas destintas, uma contendo todos os campos do ba
 Se desejar remover algum campo simplismente clique no nome dele para selecionar na lista **Campos disponíveis** e logo em seguida clique no botão de transferencia (duas setas para a direita), todos os campos selecionados serão removidos do seu banco de dados e aparecerão na lista de campos removidos e desaparecerão da visualização. Você pode selecionar mais de um campo de uma vez e você ainda pode:
 
 •	Clicar no botão 1 para selecionar todos os campos.
+
 •	Clicar no botão 2 para inverter a seleção.
+
 •	Clicar no botão 3 para limpar a seleção de todos os campos.
+
 
 Se removeu algum campo por engano ou se arrependeu você pode readiciona-los simplismente clicando no nome dele para selecionar na lista **Campos removidos** e logo em seguida clique no botão de transferencia (duas setas para a esquerda), todos os campos selecionados serão readicionados ao seu banco de dados e aparecerão na lista de campos dispníveis e reaparecerão na visualização. Você pode selecionar mais de um campo de uma vez e você ainda pode:
 
 •	Clicar no botão 1 para selecionar todos os campos.
+
 •	Clicar no botão 2 para inverter a seleção.
+
 •	Clicar no botão 3 para limpar a seleção de todos os campos.
+
 
 ![36](https://github.com/Richard1057/MailMerge/assets/7233190/0cbea8ff-aa31-4d4b-adb7-d16f2d088de9)
 
