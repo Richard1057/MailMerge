@@ -145,13 +145,16 @@ Coordenador Pedagogico
 
 ```
 ## 4.	Criando os campos no documento
-O MailMerge não usa o padrão de campos de mala direta do word, ao inves disso ele usa um modelo próprio de campos definidos por chave { }, sendo assim, todo o conteudo que estiver dentro das chaves serão reconhecidos como campo para o MailMerge, 
-ex. *{nome}* é um campo válido.
+O MailMerge não usa o padrão de campos de mala direta do word, ao inves disso ele usa o recurso de Indicadores presente no word, sendo assim, todo o conteudo que estiver sendo referenciado por indicadores serão reconhecidos como campo para o MailMerge.
 Se seu documento já possui campos de mala direta padrão do word você vai precisar removelos.
 
-Agora iremos criar os campos no documento. Para isso adicione uma { na frente do nome do campo e uma } no final do nome do campo. Não selecione espaços antes ou depois do nome do campo, pois eles também serão substituidos. Veja o exemplo abaixo.
+Agora iremos criar os campos no documento. Para isso:
 
-![18](https://github.com/Richard1057/MailMerge/assets/7233190/1cb4f405-2542-4e19-a6cb-00037b0b755f)
+1. selecione o nome do campo e copie. Não selecione espaços antes ou depois do nome do campo pois eles também serão substituidos.
+2. Agora selecione a opção Indicador presente na aba Inserir no microsoft word.
+3. Na caixa de dialogo que se abre, apenas cole o nome do campo que vc copiou ou digite, depois clique em adicionar
+  
+Repita esses passos até adicionar todos os campos desejados 
 
 Você pode formatar normalmente seus campos. Qualquer formatação aplicada aos campos serão preservadas durante a criação da mala direta. 
 
@@ -160,15 +163,15 @@ Tenha o cuidado de digitar os nomes dos campos exatamente como você digitou na 
 Veja como deve ficar nosso texto de exemplo com os campos já marcados.
 
 ```
-    Olá {nome} seja bem vindo! Ficamos felizes com o seu ingresso no nosso curso de {curso},
-na turma {turma}, temos muitos outros usarios da sua localidade, {pais}, {estado}, {cidade} eles
+    Olá nome seja bem vindo! Ficamos felizes com o seu ingresso no nosso curso de curso,
+na turma turma, temos muitos outros usarios da sua localidade, pais, estado, cidade eles
 ficarão felizes em saber que você agora paz parte da turma, aproveita para quebrar o
 gelo enviado um Olá! no chat em grupo.
 
 Seus dados de login são:
 
-Usuário: {matricula}
-Senha: {senha}
+Usuário: matricula
+Senha: senha
 
 
 
